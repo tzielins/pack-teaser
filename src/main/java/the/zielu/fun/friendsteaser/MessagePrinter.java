@@ -21,7 +21,7 @@ public class MessagePrinter {
     } 
     
     public void run() {
-        
+        // http://www.network-science.de/ascii/
         List<String> lines = Arrays.asList(
             "***********",
             "*********************",
